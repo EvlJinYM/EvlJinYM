@@ -1,16 +1,38 @@
-### Hi there 👋
+<pre>
+      ___           ___           ___       ___       ___     
+     /\__\         /\  \         /\__\     /\__\     /\  \    
+    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+ /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+ \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+     \/__/         \/__/         \/__/     \/__/     \/__/    
 
-<!--
-**EvlJinYM/EvlJinYM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+</pre>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<pre>
+ ~> <strong>ls contact</strong>
+ Email:765877776@qq.com
+
+ ~> <strong>finger Evl</strong>
+ Login: Evl                              Name: Evl
+ Directory: /home/evl                    Shell: /usr/bin
+ Project:
+   - <a href="https://github.com/jiaweichen666/RaftProtocol">Raft</a>
+ Blog:
+   - <a href="https://jiaweichen666.github.io/archives">Blog</a>
+ Education:
+   - Nanjing University of Science and Technology - EE
+ Work Experience:
+   - Realsil   - System developer
+ Interest in:
+   - System on chip
+   - Display port
+   - DSC
+ Plan:
+   - Learning \o/
+</pre>
